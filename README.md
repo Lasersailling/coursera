@@ -1,3 +1,1 @@
-# coursera
 
-print('Hello world')
